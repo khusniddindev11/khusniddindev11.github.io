@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(175, 156, 142);
+    font-size: 25px;
+}
+h1, h2 {
+    color: #4e4764;
+}
+
+.Adj {
+    margin: 0;
+    border: 0;
+    color: rgb(221, 221, 64);
+
+}
+
+.img1 img {
+    
+    position:flex;
+    width: 500px;
+    height: 700px;
+}
+.img1{
+    display: flex;
+    gap: 10px;
+}
+
+.hap, .sad{
+    text-align: center;
+    margin-top: 60%;
+}
